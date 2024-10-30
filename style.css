@@ -1,0 +1,53 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  background: #eee9da;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+}
+
+h1 img{
+  height: 140px;
+  width: auto;
+  margin: 30px;
+}
+
+section{
+  display: flex;
+}
+
+section h2{
+  text-align: center;
+  color: #609966;
+}
+
+section p {
+  color: #383838;
+  text-indent: 30px;
+  text-align: justify;
+}
+
+section div{
+  border: 2px solid #609966;
+  margin: 20px;
+  padding: 15px;
+  box-shadow: 7px 7px 5px rgba(0, 0, 0, 0.445);
+  background-color: #fcf7e7;
+}
+
+.fake_news-card{
+  height: auto;
+  width: 70%;
+}
+
+footer{
+  margin-top: 50px;
+  height: 40px;
+  background: #609966;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
